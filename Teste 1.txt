@@ -1,0 +1,16 @@
+Controle de estoque - 7 dias para executar o teste.
+
+Fazer um sistema de controle de estoque em php.
+
+Tendo em vista as tabelas:
+
+Produto(id,nome,descrição,preço)
+Cliente(id,nome,email,telefone)
+Pedido(id_produto, id_cliente)
+
+
+Criar um CRUD para cada modelo, Produto, Cliente e Pedido.
+
+
+Colocar o projeto em seu github, e mandar o link para para o seu contato!
+
