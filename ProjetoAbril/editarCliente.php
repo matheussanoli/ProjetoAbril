@@ -19,3 +19,6 @@ if ($_POST) {
 	<input type="text" name="preco" value="<?php echo $result[0]['telefone']; ?>">
 	<input type="submit" class="btn btn-primary" name="">
 </form>
+<?php 
+
+require_once('rodape.html'); ?>

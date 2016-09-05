@@ -12,7 +12,10 @@
 	
 	
 </div>
+	<?php 
 
+require_once('rodape.html'); ?>
 	</body>
 
 	</html>
+

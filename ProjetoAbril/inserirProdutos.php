@@ -63,3 +63,6 @@ if ($listar != null ) {
 	</table>
 	</div>
 	</div>
+	<?php 
+
+require_once('rodape.html'); ?>

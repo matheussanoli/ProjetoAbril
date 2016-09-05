@@ -40,3 +40,6 @@ $result = $Crud->read($where);
 		</tr>';
 
 		?>
+		<?php 
+
+require_once('rodape.html'); ?>

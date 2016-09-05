@@ -5,7 +5,8 @@ require_once('cabecalho.html');
 
 	
 	$result = $Crud->read();
-  ?>
+  ?><div class="container">
+  <h1>Todos os Clientes cadastrados</h1>
 <table class="table table-hover">
 
 	<?php
@@ -31,4 +32,7 @@ require_once('cabecalho.html');
 		echo '<tr><td>Não existem itens para serem exibidos</td></tr>';
 	}
 	?>
-	</table>
+	</table></div>
+	<?php 
+
+require_once('rodape.html'); ?>

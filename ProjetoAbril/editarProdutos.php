@@ -33,3 +33,6 @@ if ($_POST) {
  </div>
  
 </form>
+<?php 
+
+require_once('rodape.html'); ?>
