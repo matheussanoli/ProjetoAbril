@@ -1,1 +1,1 @@
-# ProjetoAbril - Projeto feito com POO e responsivo
+# ProjetoAbril - Projeto feito com PDO e responsivo
